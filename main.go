@@ -1,11 +1,13 @@
 package main
 
 import (
-    "fmt"
-    "strings"
+	"fmt"
+	"strings"
 )
 
 func main() {
-    fmt.Println("Hello world")
-    fmt.Println(strings.Split("Eleuterio", ""))
+	// Hello World
+	fmt.Println("Hello world")
+	fmt.Println(strings.Split("Eleuterio", ""))
+
 }
